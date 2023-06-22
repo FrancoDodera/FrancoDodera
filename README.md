@@ -21,11 +21,7 @@ encanta la idea de poder yo mismo generar mis proyectos.</h3>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.chartjs.org" target="_blank"> <img src="https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" alt="chartjs" height="50"/> </a> 
 
-No dudes en contactarme!
-https://www.linkedin.com/in/franco-rodriguez-dodera-a2530a260/
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">No dudes en contactarme!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/franco-rodriguez-dodera-a2530a260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco rodriguez dodera" height="30" width="40" /></a>
 </p>
