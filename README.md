@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Franco Rordiguez Dodera</h1>
+<h1 align="center">Hola 👋, soy Franco Rodriguez Dodera</h1>
 
 <h3>Soy un programador FullStack orientado al Front-End.
 Desde que tengo uso de razon estuve interesado por el mundo tecnologico, lo cual me llevo siempre a estar al lado de una computadora. Hace un año inicie un curso de programacion de videojuegos,
