@@ -1,7 +1,7 @@
 Hola! Mi nombre es Franco Rodriguez Dodera 
 
 Soy un programador FullStack orientado al Front-End.
-Desde que tengo uso de razon estuve interesado por el mundo tecnologico, lo cual me llevo siempre a etar al lado de una computadora. Hace un año inicie un curso de programacion de videojuegos,
+Desde que tengo uso de razon estuve interesado por el mundo tecnologico, lo cual me llevo siempre a estar al lado de una computadora. Hace un año inicie un curso de programacion de videojuegos,
 el cual me demostro que la programacion es lo que me apaciona y lo que quiero para el resto de mi vida.
 
 Mi objetivo principal es introducirme e impactar en el mundo del código
