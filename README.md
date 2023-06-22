@@ -23,3 +23,9 @@ encanta la idea de poder yo mismo generar mis proyectos.</h3>
 
 No dudes en contactarme!
 https://www.linkedin.com/in/franco-rodriguez-dodera-a2530a260/
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/franco rodriguez dodera" target="blank"><img align="center" src="https://www.linkedin.com/in/franco-rodriguez-dodera-a2530a260/" alt="franco rodriguez dodera" height="30" width="40" /></a>
+</p>
