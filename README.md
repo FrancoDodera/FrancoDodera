@@ -2,7 +2,7 @@
 
 <h3>Soy un programador FullStack orientado al Front-End.
 Desde que tengo uso de razon estuve interesado por el mundo tecnologico, lo cual me llevo siempre a estar al lado de una computadora. Hace un año inicie un curso de programacion de videojuegos,
-el cual me demostro que la programacion es lo que me apaciona y lo que quiero para el resto de mi vida.
+el cual me demostro que la programacion es lo que me apasiona y lo que quiero para el resto de mi vida.
 
 Mi objetivo principal es introducirme e impactar en el mundo del código
 No tan solo me gusta la programacion por su demanda laboral, sino que realmente me 
